@@ -31,3 +31,8 @@ wp_head();
 ?>
 </head>
 <body <?php body_class(); ?>>
+	<div id="wrap">
+		<div id="header">
+		</div>
+		<div id="content">
+		</div>
